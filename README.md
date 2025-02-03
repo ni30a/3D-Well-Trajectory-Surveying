@@ -1,1 +1,1 @@
-# -3D-Well-Trajectory-Surveying
+# 3D-Well-Trajectory-Surveying
